@@ -6,13 +6,20 @@
 <body>
 
 <h1>MyAPP</h1>
+<<<<<<< HEAD
 <p>working on it</p>
+  <p>help me out</p>
+ <p>working on it</p>
   <p>help me out</p>
 <<<<<<< HEAD
 =======
+  
  <p>working on it</p>
   <p>help me out</p>
->>>>>>> fc3d80c (Update index.html)
 
+>>>>>>> 5270000 (Update index.html)
+=======
+<p>working on it, User 2 is working on it</p>
+>>>>>>> cef192047fea34cb084d3444eb98d4f41db4730b
 </body>
 </html>
