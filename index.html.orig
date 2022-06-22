@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>MyAPP</h1>
+<p>working on it</p>
+  <p>help me out</p>
+<<<<<<< HEAD
+=======
+ <p>working on it</p>
+  <p>help me out</p>
+>>>>>>> fc3d80c (Update index.html)
+
+</body>
+</html>
